@@ -25,6 +25,12 @@ Gamification in Education is a web-based learning platform designed to make lear
 - Leaderboard system
 - Student login and dashboard
 - Performance analytics
+  
+ ## Project Documents
+- Project Presentation
+- Project Synopsis
+
+These documents provide detailed information about the project design, objectives, features, and implementation.
 
 ## Project Goal
 To improve student engagement and learning outcomes through gamification techniques.
